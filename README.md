@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/24652QfeZzNIPzoH36/giphy.gif" height="150" width="400" />
+  <img src="https://media.giphy.com/media/24652QfeZzNIPzoH36/giphy.gif" height="150" width="300" />
   <div id="badges">
     <a href="https://www.linkedin.com/in/philipmjobe/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/Qkbm4jGMam7PfdWzHM/giphy.gif" width="400" height="300"/>
 </div>
 
 ___
