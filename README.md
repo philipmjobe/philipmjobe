@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/24652QfeZzNIPzoH36/giphy.gif](https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8" height="150" width="300" />
+  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" height="150" width="300" />
   <div id="badges">
     <a href="https://www.linkedin.com/in/philipmjobe/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
