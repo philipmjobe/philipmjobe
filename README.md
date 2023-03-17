@@ -24,10 +24,10 @@ ___
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ohio.
 - :telescope: I’m a graduate from Actualize Software Engineer Coding Bootcamp and contributing to frontend and backend for building web applications.
-- :slightly_smiling_face:	Currently working on refactoring my capstone project and bringing in some APIs
+- :slightly_smiling_face:	Currently working on an app that will let users see all of the campgrounds in the U.S. and Canada and see all of the information about them.
 - :football: In my free time I like to read up on technologies that I want a deeper understanding of as well as rooting for The Dallas Cowboys.
 - :scream: Also a huge fan of all things horror movies music and books I love it all.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philipmjobe/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philipmjobe/) or you can learn more about me here => https://philipmjobe.github.io/
 
 ___
 
